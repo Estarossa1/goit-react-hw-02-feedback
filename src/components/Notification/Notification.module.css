@@ -1,7 +1,7 @@
 .notification {
-    background-color: #f8f8f8;
+    background-color: #9c9c9c;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #ff0000;
     border-radius: 4px;
     margin-bottom: 10px;
     color: #faf8f8;
@@ -12,5 +12,6 @@
   .notification p {
     margin: 0 auto;
     text-align: center;
+    color: rgb(20, 0, 255);
   }
   
