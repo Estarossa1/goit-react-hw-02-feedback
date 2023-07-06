@@ -6,7 +6,7 @@ export class Footer extends Component {
     render() {
         return (
         <div className={css.footer_container}>
-            <p className={css.footer}>© 2023 Feedback. All rights reserved. Created by Petro Shutak</p>
+            <p className={css.footer}>© 2023 Feedback. All rights reserved. Created by Estar0ssa1</p>
         </div>
         );
     }
